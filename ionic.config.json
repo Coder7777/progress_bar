@@ -1,0 +1,7 @@
+{
+  "name": "myLoader",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
